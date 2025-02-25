@@ -1,1 +1,1 @@
-console.log('Me quiero comprar Warhammer Fantsy RPG')
+console.log('Me quiero comprar Warhammer Fantsy')
